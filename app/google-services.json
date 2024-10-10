@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867508564818",
+    "project_id": "colour-b54ed",
+    "storage_bucket": "colour-b54ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867508564818:android:e0386219450be264a9408b",
+        "android_client_info": {
+          "package_name": "com.example.contactmanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQN91PzGW05qi1qYv0rbmCfGi3ZAPagqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
